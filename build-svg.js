@@ -55,7 +55,7 @@ const todayDay = new Intl.DateTimeFormat('en-US', { weekday: 'long' }).format(
   today
 )
 
-// Start date: 2022/3/11
+// Start date: 2022/3/30
 const hipTime = formatDistance(new Date(2022, 2, 30), today, {
   addSuffix: false,
 })

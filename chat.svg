@@ -275,7 +275,7 @@
   <!-- From ... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="430" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I live in Xi An, Shaanxi where it’s supposed to be</text>
+    <text x="15" y="27">I live in Xi'An, Shaanxi where it’s supposed to be</text>
     <text x="15" y="50">23° C (73° F) and <tspan class="emoji">🌤</tspan> today.</text>
   </g>
 
@@ -323,7 +323,7 @@
 
   <!-- Slack -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="475" height="42" rx="18.0355" class="bubble" />
+    <rect width="300" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       You can find me on Slack at
       <a xlink:href="https://hipages.slack.com/team/U039M7HHC3B">here</a>
